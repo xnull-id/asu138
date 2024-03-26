@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://asu138.distractedengineer.com/.xml
+Sitemap: http://asu138.distractedengineer.com/.xml
